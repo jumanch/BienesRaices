@@ -376,3 +376,9 @@ h4 {
     padding-bottom: 2rem;
 }
 
+
+/* Contacto */
+
+label {
+    display: block; /* Display Block hace que los objetos ocupen todo el espacio disponible*/
+}
